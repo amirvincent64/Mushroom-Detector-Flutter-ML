@@ -74,27 +74,27 @@ class Guide extends StatelessWidget {
                 shrinkWrap: true,
                 scrollDirection: Axis.horizontal,
                 children: [
-                  Image(image: AssetImage('assets/images/Agaricus/1.jpg')),
+                  Image(image: AssetImage('assets/images/Agaricus1.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Agaricus/2.jpg')),
+                  Image(image: AssetImage('assets/images/Agaricus2.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Agaricus/3.jpg')),
+                  Image(image: AssetImage('assets/images/Agaricus3.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Agaricus/4.jpg')),
+                  Image(image: AssetImage('assets/images/Agaricus4.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Agaricus/5.jpg')),
+                  Image(image: AssetImage('assets/images/Agaricus5.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Agaricus/6.jpg')),
+                  Image(image: AssetImage('assets/images/Agaricus6.jpg')),
                   SizedBox(
                     width: 20,
                   ),
@@ -148,27 +148,27 @@ class Guide extends StatelessWidget {
                 shrinkWrap: true,
                 scrollDirection: Axis.horizontal,
                 children: [
-                  Image(image: AssetImage('assets/images/Amanita/1.jpg')),
+                  Image(image: AssetImage('assets/images/Amanita1.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Amanita/2.jpg')),
+                  Image(image: AssetImage('assets/images/Amanita2.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Amanita/3.jpg')),
+                  Image(image: AssetImage('assets/images/Amanita3.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Amanita/4.jpg')),
+                  Image(image: AssetImage('assets/images/Amanita4.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Amanita/5.jpg')),
+                  Image(image: AssetImage('assets/images/Amanita5.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Amanita/6.jpg')),
+                  Image(image: AssetImage('assets/images/Amanita6.jpg')),
                   SizedBox(
                     width: 20,
                   ),
@@ -226,23 +226,27 @@ class Guide extends StatelessWidget {
                 shrinkWrap: true,
                 scrollDirection: Axis.horizontal,
                 children: [
-                  Image(image: AssetImage('assets/images/Boletus/1.jpg')),
+                  Image(image: AssetImage('assets/images/Boletus1.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Boletus/2.jpg')),
+                  Image(image: AssetImage('assets/images/Boletus2.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Boletus/3.jpg')),
+                  Image(image: AssetImage('assets/images/Boletus3.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Boletus/4.jpg')),
+                  Image(image: AssetImage('assets/images/Boletus4.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Boletus/5.jpg')),
+                  Image(image: AssetImage('assets/images/Boletus5.jpg')),
+                  SizedBox(
+                    width: 20,
+                  ),
+                  Image(image: AssetImage('assets/images/Boletus6.jpg')),
                   SizedBox(
                     width: 20,
                   ),
@@ -294,27 +298,27 @@ class Guide extends StatelessWidget {
                 shrinkWrap: true,
                 scrollDirection: Axis.horizontal,
                 children: [
-                  Image(image: AssetImage('assets/images/Cortinarius/1.jpg')),
+                  Image(image: AssetImage('assets/images/Cortinarius1.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Cortinarius/2.jpg')),
+                  Image(image: AssetImage('assets/images/Cortinarius2.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Cortinarius/3.jpg')),
+                  Image(image: AssetImage('assets/images/Cortinarius3.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Cortinarius/4.jpg')),
+                  Image(image: AssetImage('assets/images/Cortinarius4.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Cortinarius/5.jpg')),
+                  Image(image: AssetImage('assets/images/Cortinarius5.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Cortinarius/6.jpg')),
+                  Image(image: AssetImage('assets/images/Cortinarius6.jpg')),
                   SizedBox(
                     width: 20,
                   ),
@@ -367,27 +371,27 @@ class Guide extends StatelessWidget {
                 shrinkWrap: true,
                 scrollDirection: Axis.horizontal,
                 children: [
-                  Image(image: AssetImage('assets/images/Entoloma/1.jpg')),
+                  Image(image: AssetImage('assets/images/Entoloma1.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Entoloma/2.jpg')),
+                  Image(image: AssetImage('assets/images/Entoloma2.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Entoloma/3.jpg')),
+                  Image(image: AssetImage('assets/images/Entoloma3.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Entoloma/4.jpg')),
+                  Image(image: AssetImage('assets/images/Entoloma4.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Entoloma/5.jpg')),
+                  Image(image: AssetImage('assets/images/Entoloma5.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Entoloma/6.jpg')),
+                  Image(image: AssetImage('assets/images/Entoloma6.jpg')),
                   SizedBox(
                     width: 20,
                   ),
@@ -441,27 +445,27 @@ class Guide extends StatelessWidget {
                 shrinkWrap: true,
                 scrollDirection: Axis.horizontal,
                 children: [
-                  Image(image: AssetImage('assets/images/Hygrocybe/1.jpg')),
+                  Image(image: AssetImage('assets/images/Hygrocybe1.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Hygrocybe/2.jpg')),
+                  Image(image: AssetImage('assets/images/Hygrocybe2.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Hygrocybe/3.jpg')),
+                  Image(image: AssetImage('assets/images/Hygrocybe3.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Hygrocybe/4.jpg')),
+                  Image(image: AssetImage('assets/images/Hygrocybe4.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Hygrocybe/5.jpg')),
+                  Image(image: AssetImage('assets/images/Hygrocybe5.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Hygrocybe/6.jpg')),
+                  Image(image: AssetImage('assets/images/Hygrocybe6.jpg')),
                   SizedBox(
                     width: 20,
                   ),
@@ -514,27 +518,27 @@ class Guide extends StatelessWidget {
                 shrinkWrap: true,
                 scrollDirection: Axis.horizontal,
                 children: [
-                  Image(image: AssetImage('assets/images/Lactarius/1.jpg')),
+                  Image(image: AssetImage('assets/images/Lactarius1.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Lactarius/2.jpg')),
+                  Image(image: AssetImage('assets/images/Lactarius2.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Lactarius/3.jpg')),
+                  Image(image: AssetImage('assets/images/Lactarius3.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Lactarius/4.jpg')),
+                  Image(image: AssetImage('assets/images/Lactarius4.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Lactarius/5.jpg')),
+                  Image(image: AssetImage('assets/images/Lactarius5.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Lactarius/6.jpg')),
+                  Image(image: AssetImage('assets/images/Lactarius6.jpg')),
                   SizedBox(
                     width: 20,
                   ),
@@ -586,27 +590,27 @@ class Guide extends StatelessWidget {
                 shrinkWrap: true,
                 scrollDirection: Axis.horizontal,
                 children: [
-                  Image(image: AssetImage('assets/images/Russula/1.jpg')),
+                  Image(image: AssetImage('assets/images/Russula1.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Russula/2.jpg')),
+                  Image(image: AssetImage('assets/images/Russula2.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Russula/3.jpg')),
+                  Image(image: AssetImage('assets/images/Russula3.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Russula/4.jpg')),
+                  Image(image: AssetImage('assets/images/Russula4.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Russula/5.jpg')),
+                  Image(image: AssetImage('assets/images/Russula5.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Russula/6.jpg')),
+                  Image(image: AssetImage('assets/images/Russula6.jpg')),
                   SizedBox(
                     width: 20,
                   ),
@@ -663,27 +667,27 @@ class Guide extends StatelessWidget {
                 shrinkWrap: true,
                 scrollDirection: Axis.horizontal,
                 children: [
-                  Image(image: AssetImage('assets/images/Suillus/1.jpg')),
+                  Image(image: AssetImage('assets/images/Suillus1.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Suillus/2.jpg')),
+                  Image(image: AssetImage('assets/images/Suillus2.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Suillus/3.jpg')),
+                  Image(image: AssetImage('assets/images/Suillus3.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Suillus/4.jpg')),
+                  Image(image: AssetImage('assets/images/Suillus4.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Suillus/5.jpg')),
+                  Image(image: AssetImage('assets/images/Suillus5.jpg')),
                   SizedBox(
                     width: 20,
                   ),
-                  Image(image: AssetImage('assets/images/Suillus/6.jpg')),
+                  Image(image: AssetImage('assets/images/Suillus6.jpg')),
                   SizedBox(
                     width: 20,
                   ),

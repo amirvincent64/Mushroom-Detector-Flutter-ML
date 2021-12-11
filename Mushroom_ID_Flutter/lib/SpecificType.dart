@@ -20,19 +20,19 @@ class _SpecificTypeState extends State<SpecificType> {
     }
 
    //Array Of Mushroom 
-   Mushroom Agaricus = new Mushroom('Agaricus','Agaricus is a genus of mushrooms containing both edible and poisonous species, with possibly over 300 members worldwide. ... Members of Agaricus are characterized by having a fleshy cap or pileus, from the underside of which grow a number of radiating plates or gills, on which are produced the naked spores.','https://en.wikipedia.org/wiki/Agaricus', 'assets/images/Agaricus/1.jpg', 'assets/images/Agaricus/2.jpg', 'assets/images/Agaricus/3.jpg', 'assets/images/Agaricus/4.jpg');
+   Mushroom Agaricus = new Mushroom('Agaricus','Agaricus is a genus of mushrooms containing both edible and poisonous species, with possibly over 300 members worldwide. ... Members of Agaricus are characterized by having a fleshy cap or pileus, from the underside of which grow a number of radiating plates or gills, on which are produced the naked spores.','https://en.wikipedia.org/wiki/Agaricus', 'assets/images/Agaricus1.jpg', 'assets/images/Agaricus2.jpg', 'assets/images/Agaricus3.jpg', 'assets/images/Agaricus4.jpg');
 
 
-   Mushroom Amanita = new Mushroom('Amanita','The genus Amanita contains about 600 species of agarics, including some of the most toxic known mushrooms found worldwide, as well as some well-regarded edible species' ,'https://en.wikipedia.org/wiki/Amanita', 'assets/images/Amanita/1.jpg', 'assets/images/Amanita/2.jpg', 'assets/images/Amanita/3.jpg', 'assets/images/Amanita/4.jpg');   
+   Mushroom Amanita = new Mushroom('Amanita','The genus Amanita contains about 600 species of agarics, including some of the most toxic known mushrooms found worldwide, as well as some well-regarded edible species' ,'https://en.wikipedia.org/wiki/Amanita', 'assets/images/Amanita1.jpg', 'assets/images/Amanita2.jpg', 'assets/images/Amanita3.jpg', 'assets/images/Amanita4.jpg');   
    
-   Mushroom Boletus = new Mushroom('Boletus','Edibility\nThe genus Boletus contains many members which are edible such as Boletus edulis Boletus aereus and Boletus barrowsii\n\n Boletes with red pores may be toxic.','https://en.wikipedia.org/wiki/Boletus','assets/images/Boletus/1.jpg','assets/images/Boletus/2.jpg','assets/images/Boletus/3.jpg','assets/images/Boletus/4.jpg');
+   Mushroom Boletus = new Mushroom('Boletus','Edibility\nThe genus Boletus contains many members which are edible such as Boletus edulis Boletus aereus and Boletus barrowsii\n\n Boletes with red pores may be toxic.','https://en.wikipedia.org/wiki/Boletus','assets/images/Boletus1.jpg','assets/images/Boletus2.jpg','assets/images/Boletus3.jpg','assets/images/Boletus4.jpg');
    
-   Mushroom Cortinarius = new Mushroom('Cortinarius','Cortinarius is a globally distributed genus of mushrooms in the family Cortinariaceae. It is suspected to be the largest genus of agarics, containing over 2,000 widespread species.','https://en.wikipedia.org/wiki/Cortinarius','assets/images/Cortinarius/1.jpg','assets/images/Cortinarius/2.jpg','assets/images/Cortinarius/3.jpg','assets/images/Cortinarius/4.jpg');
-   Mushroom Entoloma = new Mushroom('Entoloma','','https://en.wikipedia.org/wiki/Entoloma','assets/images/Entoloma/1.jpg','assets/images/Entoloma/2.jpg','assets/images/Entoloma/3.jpg','assets/images/Entoloma/4.jpg');
-   Mushroom Hygrocybe = new Mushroom('Hygrocybe','Entoloma is a large genus of terrestrial pink-gilled mushrooms, with about 1,000 species. Most have a drab appearance, pink gills which are attached to the stem, a smooth thick cap, and angular spores. Many entolomas are saprobic but some are mycorrhizal.','https://en.wikipedia.org/wiki/Hygrocybe','assets/images/Hygrocybe/1.jpg','assets/images/Hygrocybe/2.jpg','assets/images/Hygrocybe/3.jpg','assets/images/Hygrocybe/4.jpg');
-   Mushroom Lactarius = new Mushroom('Lactarius','Lactarius is a genus of mushroom-producing, ectomycorrhizal fungi, containing several edible species. The species of the genus, commonly known as milk-caps, are characterized by the milky fluid they exude when cut or damaged. Like the closely related genus Russula, their flesh has a distinctive brittle consistency','https://en.wikipedia.org/wiki/Lactarius','assets/images/Lactarius/1.jpg','assets/images/Lactarius/2.jpg','assets/images/Lactarius/3.jpg','assets/images/Lactarius/4.jpg');
-   Mushroom Russula = new Mushroom('Russula','Around 750 worldwide species of ectomycorrhizal mushrooms compose the genus Russula. They are typically common, fairly large, and brightly colored – making them one of the most recognizable genera among mycologists and mushroom collectors.','https://en.wikipedia.org/wiki/Russula','assets/images/Russula/1.jpg','assets/images/Russula/2.jpg','assets/images/Russula/3.jpg','assets/images/Russula/4.jpg');
-   Mushroom Suillus = new Mushroom('Suillus','Suillus is a genus of basidiomycete fungi in the family Suillaceae and order Boletales. Species in the genus are associated with trees in the pine family, and are mostly distributed in temperate locations in the Northern Hemisphere, although some species have been introduced to the Southern Hemisphere.','https://en.wikipedia.org/wiki/Suillus','assets/images/Suillus/1.jpg','assets/images/Suillus/2.jpg','assets/images/Suillus/3.jpg','assets/images/Suillus/4.jpg');
+   Mushroom Cortinarius = new Mushroom('Cortinarius','Cortinarius is a globally distributed genus of mushrooms in the family Cortinariaceae. It is suspected to be the largest genus of agarics, containing over 2,000 widespread species.','https://en.wikipedia.org/wiki/Cortinarius','assets/images/Cortinarius1.jpg','assets/images/Cortinarius2.jpg','assets/images/Cortinarius3.jpg','assets/images/Cortinarius4.jpg');
+   Mushroom Entoloma = new Mushroom('Entoloma','','https://en.wikipedia.org/wiki/Entoloma','assets/images/Entoloma1.jpg','assets/images/Entoloma2.jpg','assets/images/Entoloma3.jpg','assets/images/Entoloma4.jpg');
+   Mushroom Hygrocybe = new Mushroom('Hygrocybe','Entoloma is a large genus of terrestrial pink-gilled mushrooms, with about 1,000 species. Most have a drab appearance, pink gills which are attached to the stem, a smooth thick cap, and angular spores. Many entolomas are saprobic but some are mycorrhizal.','https://en.wikipedia.org/wiki/Hygrocybe','assets/images/Hygrocybe1.jpg','assets/images/Hygrocybe2.jpg','assets/images/Hygrocybe3.jpg','assets/images/Hygrocybe4.jpg');
+   Mushroom Lactarius = new Mushroom('Lactarius','Lactarius is a genus of mushroom-producing, ectomycorrhizal fungi, containing several edible species. The species of the genus, commonly known as milk-caps, are characterized by the milky fluid they exude when cut or damaged. Like the closely related genus Russula, their flesh has a distinctive brittle consistency','https://en.wikipedia.org/wiki/Lactarius','assets/images/Lactarius1.jpg','assets/images/Lactarius2.jpg','assets/images/Lactarius3.jpg','assets/images/Lactarius4.jpg');
+   Mushroom Russula = new Mushroom('Russula','Around 750 worldwide species of ectomycorrhizal mushrooms compose the genus Russula. They are typically common, fairly large, and brightly colored – making them one of the most recognizable genera among mycologists and mushroom collectors.','https://en.wikipedia.org/wiki/Russula','assets/images/Russula1.jpg','assets/images/Russula2.jpg','assets/images/Russula3.jpg','assets/images/Russula4.jpg');
+   Mushroom Suillus = new Mushroom('Suillus','Suillus is a genus of basidiomycete fungi in the family Suillaceae and order Boletales. Species in the genus are associated with trees in the pine family, and are mostly distributed in temperate locations in the Northern Hemisphere, although some species have been introduced to the Southern Hemisphere.','https://en.wikipedia.org/wiki/Suillus','assets/images/Suillus1.jpg','assets/images/Suillus2.jpg','assets/images/Suillus3.jpg','assets/images/Suillus4.jpg');
 
    
    
@@ -45,7 +45,7 @@ class _SpecificTypeState extends State<SpecificType> {
       super.initState();
       
       
-      print('HERRRRRE ${type}');
+      print('HERRRRRE $type');
       if(type=='Agaricus'){
         name=Agaricus.name;
         description=Agaricus.description;
@@ -158,7 +158,7 @@ class _SpecificTypeState extends State<SpecificType> {
       appBar: AppBar(
         backgroundColor: Colors.yellow.shade900,
         title: Text(
-          '${name}',
+          '$name',
           style: TextStyle(
               color: Colors.black,
               fontSize: 28,
@@ -190,13 +190,13 @@ class _SpecificTypeState extends State<SpecificType> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Image(
-                  image: AssetImage('$img1'),
+                  image: AssetImage("$img1"),
                 ),
                 SizedBox(
                   width: 8,
                 ),
                 Image(
-                  image: AssetImage('$img2'),
+                  image: AssetImage("$img2"),
                 ),
               ],
             ),
@@ -209,13 +209,13 @@ class _SpecificTypeState extends State<SpecificType> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Image(
-                  image: AssetImage('$img3'),
+                  image: AssetImage("$img3"),
                 ),
                 SizedBox(
                   width: 8,
                 ),
                 Image(
-                  image: AssetImage('$img4'),
+                  image: AssetImage("$img4"),
                 ),
               ],
             ),
@@ -228,7 +228,7 @@ class _SpecificTypeState extends State<SpecificType> {
             Padding(
               padding: const EdgeInsets.all(8.0),
               child: Text(
-                "${description}",
+                "$description",
                 style: TextStyle(fontSize: 21),
               ),
             ),

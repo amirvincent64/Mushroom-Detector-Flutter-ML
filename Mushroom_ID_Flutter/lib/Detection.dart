@@ -41,7 +41,7 @@ class _DetectionState extends State<Detection> {
 
   loadModel() async {
     await Tflite.loadModel(
-        model: "assets/model_unquant.tflite", labels: "assets/labels.txt");
+        model: "assets/best-fp16.tflite", labels: "assets/labels.txt");
   }
 
   pickImageCamera() async {

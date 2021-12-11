@@ -20,9 +20,8 @@ class MyApp extends StatelessWidget {
       home:new Theme(
           data: new ThemeData(
             primaryColor: themecolor,
-            accentColor: Colors.green,
-            textTheme: TextTheme(body1: TextStyle(color: Colors.black)),
-            backgroundColor: themecolor,
+            textTheme: TextTheme(bodyText1: TextStyle(color: Colors.black)),
+            backgroundColor: themecolor, colorScheme: ColorScheme.fromSwatch().copyWith(secondary: Colors.green),
           )
           ,
        child: 
